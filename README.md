@@ -1,3 +1,3 @@
 # sample vue app
 
-asdf
+sample vue app
